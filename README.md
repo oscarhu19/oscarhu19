@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">AI Engineering Student @ IPN | Researcher Assistor </h3>
 
 <p align="center">
-  <a href="mailto:osc.hv1920@email.com">
-    <img src="https://img.shields.io/badge/Email-osc.hv1920@email.com-blue?style=flat&logo=gmail">
+  <a href="mailto:osc.hv1920@gmail.com">
+    <img src="https://img.shields.io/badge/Email-osc.hv1920@gmail.com.com-blue?style=flat&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/huerta-villanueva-oscar-98813a352">
     <img src="https://img.shields.io/badge/LinkedIn-huerta--villanueva--oscar-blue?style=flat&logo=linkedin">
